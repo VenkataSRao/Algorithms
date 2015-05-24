@@ -1,0 +1,44 @@
+Data Types:
+
+Nominal: Names
+Ordinal   Rank
+Interval: Number
+Ratio: Real Zero
+
+Above data types divided into 2 main types
+
+	Number :  Interval and Ratio
+	Category:  Nominal and ordinal
+
+Mode: Which occurs more number of times in data set
+
+Median: Situated in middle of the series..
+	Ex: 1 2 3 4 5 ( here 3 is median )
+
+Mean:  add up all the numbers and then divide by the number of numbers.
+
+Mode , Median and Mean is called central tendency..
+
+
+Null Hypothesis: 
+
+The null hypothesis (H0) 
+Null  hypothesis which the researcher tries to disprove, reject or nullify.
+
+Main 5 steps for analysis
+
+	Data Type
+	Choose Test
+	Null Hypothesis
+	p-value
+	Accept / Reject
+
+
+
+One sampel t-test  need to do..
+
+If probability is greater than 0.5 then accept null hypothesis
+If is P is less than 0.5 then reject null
+
+
+
